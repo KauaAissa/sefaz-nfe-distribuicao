@@ -103,6 +103,18 @@ python src/extrair_documentos.py
 
 ---
 
-## 📄 Licença
+## 🔗 Projetos Relacionados
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+- [🍳 sefaz-nfe-status – Web Service](https://github.com/KauaAissa/sefaz-nfe-status)
+
+---
+
+## 📌 Autor
+
+Desenvolvido por **Kauã Aissa** 💻
+<img src="assets/blackcat.png" alt="Logo Gato Preto" width="120" align="right" />
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kauaaissa)  
+🔗 [GitHub](https://github.com/KauaAissa)
+
+---
